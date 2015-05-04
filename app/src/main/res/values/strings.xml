@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConexionWS</string>
+
+    <string name="conect">conectar</string>
+    <string name="server_ip_request">Ingrese IP de servidor</string>
+    <string name="robot_ip_request">Ingrese IP de robotino</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
